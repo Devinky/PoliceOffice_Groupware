@@ -36,16 +36,12 @@
 > ![updated-DB](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/315470e8-1c40-44b0-bda5-1122399212f3)
 > 
 > ### 기능정리
-> - 기본기능
-> ```
-> 1. 일정 및 근태 관리
-> 2. 사원(경찰관) 관리
-> 3. 게시글 관리
-> 4. 사건·사고 관리 ✅
-> 5. API(날씨·영화·분실물 조회✅, Naver Workplace)
-> ```
-> - 담당기능
-> ```
-> 사건, 사고 관리
-> 1. 사건 등록
-> ```
+> - **담당 기능 일람**
+> > 1. 사건·사고 관리
+> > 2. 국내 날씨 조회 API
+> > 3. 국내 분실물 조회 API
+-----------------------------------------
+
+### ✅ 사건·사고 메인 페이지 View
+https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/41373920-9f6d-4bc9-acf7-7433e1d6fa70
+
