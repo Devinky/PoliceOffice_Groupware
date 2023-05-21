@@ -1,5 +1,5 @@
-# 🚔 PoliceOffice Groupware - 지구대 그룹웨어
-  #### 지구대 업무를 관리하는 Groupware를 구현한 Team Project
+# ![경찰마크](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/91b393d8-fa92-4595-bbfb-2b8c1687a56e) PoliceOffice Groupware - 지구대 그룹웨어
+🚔**지구대 업무를 관리하는 Groupware를 구현한 Team Project**
   
 ## ☝ 개요
 #### `❓ 그룹웨어 :: 조직 간의 원활한 의사소통 및 효율적인 업무, 협업을 위한 업무용 소프트웨어를 말한다.` <br><br>
@@ -25,15 +25,27 @@
 > - Object Relational Mapping : **Java Persistance API**
 > - Template Engine : **Thymeleaf**
 > - IDE : **IntelliJ, VS Code**
-----------------------------------------------------
+> - Collaboration : **GitHub**
 
 ## ✌ 프로젝트 내용
 > ### 개발문서
-> - Project Diagram
+> - **Project Diagram**
 > ![BusinessLogic](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/5c96f1ac-c147-4940-b6c0-8d74405c6a66)
 >
-> - Database ERD  
+> - **Database ERD**
 > ![updated-DB](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/315470e8-1c40-44b0-bda5-1122399212f3)
 > 
 > ### 기능정리
-> - 
+> - 기본기능
+> ```
+> 1. 일정 및 근태 관리
+> 2. 사원(경찰관) 관리
+> 3. 게시글 관리
+> 4. 사건·사고 관리 ✅
+> 5. API(날씨·영화·분실물 조회✅, Naver Workplace)
+> ```
+> - 담당기능
+> ```
+> 사건, 사고 관리
+> 1. 사건 등록
+> ```
