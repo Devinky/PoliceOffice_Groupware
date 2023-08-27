@@ -20,7 +20,7 @@
 > - BackEnd Language : **Java 11**
 > - FrontEnd : **HTML5, CSS3, JavaScript**
 > - Database : **Mysql 8.0.3**
-> - Framework : **Spring Boot 2.7 Gradle**
+> - Framework : **Spring Boot 2.7.9 Gradle**
 > - authentication/authorization : **Spring Security**
 > - Object Relational Mapping : **Java Persistance API**
 > - Template Engine : **Thymeleaf**
