@@ -37,10 +37,13 @@
 > 
 > ### ✔ 기능정리
 > - **담당 기능 일람**
-> > 1. 사건·사고 관리
+> > [1. 사건·사고 관리](https://github.com/Devinky/PoliceOffice_Groupware.wiki.git)
+> > <br>
 > > 2. 국내 날씨 조회 API
+> > <br>
 > > 3. 국내 분실물 조회 API
------------------------------------------
+
+<br>
 
 ### ✅ 사건·사고 메인 페이지 View
 https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/caa42bec-a375-4ba7-b6fd-190f834b6c91
