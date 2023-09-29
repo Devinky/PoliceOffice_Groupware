@@ -38,7 +38,7 @@
 > ### ✔ 기능정리
 > - **담당 기능 일람**
 > > [1. 사건·사고 관리](https://github.com/Devinky/PoliceOffice_Groupware/wiki/%EC%82%AC%EA%B1%B4%EA%B4%80%EB%A6%AC) <br>
-> > 2. 국내 분실물 조회 API <br>
+> > [2. 국내 분실물 조회 API](https://github.com/Devinky/PoliceOffice_Groupware/wiki/API) <br>
 > > [3. 전체 페이지 사이드바 템플릿](https://github.com/Devinky/Groupware-Project_Main)
 
 <br>
