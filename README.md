@@ -13,7 +13,7 @@
 > - 김득주 [@kimdeukju](https://github.com/kimdeukju)
 > - 이지창 [@jichang-lee](https://github.com/jichang-lee)
 > - 장효선 [@wkdgytjs](https://github.com/wkdgytjs)
-> - 허인경 <본인>
+> - 허유랑 <본인>
 > ### ✔ 개발환경
 >  ![javapng](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/921fe513-8e01-4a5c-8023-9d5420d35c5b) ![front](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/319427e0-6750-4ccb-b70f-7f5422d21dc5) ![mysql (2)](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/6bc4c0dd-362b-4701-a761-3f9eb48d6de7) ![spring (2)](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/693810b9-ef23-4070-a92e-0806c1f49d39) ![security (2)](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/3c418701-6ef3-4633-8f8d-fb26853f83bd) ![jpa](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/ec7aad6b-5df8-41cf-ad73-c6c9d388539f) ![thymeleaf (2)](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/153c5e04-1292-4794-9c6a-802214fce8be) ![pngegg (2)](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/1ee95080-c95f-41fa-8e19-2720a82e2412) ![vscode (2)](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/23770eda-6f0c-4c02-959c-63f9d3def4d1) ![git (2)](https://github.com/Devinky/PoliceOffice_Groupware/assets/59549070/fe077c0b-89e5-431f-b1ca-f6324d62a829)
 > - OS : **Windows 10**
